@@ -8,7 +8,7 @@ function Card(props) {
             <div className="card-body">
                 <h5 className="card-title">{props.title}</h5>
                     <div className="flexbox-container">
-                        <a href={props.link} target="_blank" rel="noopener noreferrer" className="btn btn-outline-light btn-lg" id="boton">{props.button}</a>
+                        <a href={props.link} target="_blank" rel="noopener noreferrer" className="btn btn-outline-dark btn-lg" id="boton">{props.button}</a>
                     </div>
             </div>
         </div>

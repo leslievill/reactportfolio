@@ -15,7 +15,7 @@
         "src": "../Images/fe.png",
         "alt": "logoImg",
         "link": "https://future-endeavorss.herokuapp.com/",
-        "button": "Notes & Map App"
+        "button": "Future Endeavors"
     },
     {
         "id": 9,
@@ -39,7 +39,7 @@
         "src": "../Images/click.gif",
         "alt": "LogoImg",
         "link": "https://leslievill.github.io/Clickity-click/",
-        "button": "Search for Lyrics!"
+        "button": "Play!"
     },
     {
         "id": 6,
@@ -76,10 +76,10 @@
    
     {
         "id": 2,
-        "title": "Random Password Generator",
-        "src": "../Images/PassGen.png",
-        "alt": "Dice",
-        "link": "https://leslievill.github.io/Password-Generator/",
+        "title": "Google Book Search",
+        "src": "../Images/book.png",
+        "alt": "book",
+        "link": "hhttps://github.com/leslievill/google-book-search",
         "button": "Check it Out!"
         
     },

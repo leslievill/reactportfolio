@@ -49,17 +49,7 @@
   #contact {
       height: 100%;
   }
-  .carousel-caption {
-      top: 100%;
-      transform: translateY(-240px);
-  }
-  .carousel-caption h1 {
-      font-size: 300%;
-  }
-  .carousel-caption .btn {
-      font-size: 95%;
-      padding: 8px 14px;
-  }
+
   #facebook {
       padding-left: 0px;
 
