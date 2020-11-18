@@ -26,11 +26,11 @@
 }
 
 .contact-form {
-    background: rgba(0, 0, 0, .6);
+    background: rgba(96, 144, 172, 0.6);
     color: white;
     margin-top: 25px;
     padding: 20px;
-    box-shadow: 0px 0px 10px 3px gray;
+    box-shadow: 0px 0px 10px 3px rgb(147, 176, 209);
     
 }
 

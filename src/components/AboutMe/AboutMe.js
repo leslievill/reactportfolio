@@ -11,7 +11,7 @@ function AboutMe() {
 
             <div className="row">
                 <div className="col-lg-3">
-                    <img className="img img-thumbnail" alt="myPicture" src="public/images/leslie.png"/>  
+                    <img className="img img-thumbnail" alt="myPicture" src="Images/leslie.png"/>  
                 </div>
                 <div className="col-lg-9" id="aboutmep">
                 <p>Hello, my name is Leslie Villatoro and I am studying to become a Full Stack Web Developer.

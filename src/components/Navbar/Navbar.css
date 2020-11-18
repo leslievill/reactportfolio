@@ -17,7 +17,7 @@
 }
 
 .bg-light {
-    background-color: #000!important;
+    background-color: rgba(96, 144, 172, 0.6)!important;
 } 
 
 .navbar-light .navbar-toggler {
