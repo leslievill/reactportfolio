@@ -15,7 +15,7 @@ function AboutMe() {
                 </div>
                 <div className="col-lg-9" id="aboutmep">
                 <p>Hello, my name is Leslie Villatoro and I am studying to become a Full Stack Web Developer.
-                      <p>I´m currently studying at the UC Berkeley extension Coding BootCamp. I have gained experience in HTML5, CSS and JavaScript.</p>
+                      <p>I´m currently studying at the UC Berkeley extension Coding BootCamp. I have gained experience in HTML5, CSS, JavaScript, and React.</p>
                       <p> I have a Bachelor's degree in Sociology from the University of California, Los Angeles. With this program I hope to incorporate both my technical skills in coding as well as my critical thinking skills from Sociology and hope to find a job that will allow me to put both to the test.
                         Feel free to check out my resume linked below, where you will find my wide range of experiences I've had in previous jobs</p>
                       

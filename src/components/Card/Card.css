@@ -1,11 +1,11 @@
 /* Portfolio Container */
 
 .card {
-    background-color: transparent;
+    background-color: rgba(96, 144, 172, 0.6);
 }
 
 .card-title {
-    color: white;
+    color: rgba(57, 95, 117, 0.6);
     text-align: center;
     letter-spacing: 2px;    
 }
