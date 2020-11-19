@@ -4,7 +4,7 @@
     {
         "id": 11,
         "title": "Workout Tracker",
-        "src": "../Images/run.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/run.png?raw=true",
         "alt": "RunImg",
         "link": "https://still-gorge-04808.herokuapp.com/?id=5fb59417df0e0600170f32c1",
         "button": "Track your exercise!"
@@ -12,7 +12,7 @@
     {
         "id": 10,
         "title": "Full Stack App",
-        "src": "../Images/fe.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/fe.png?raw=true",
         "alt": "logoImg",
         "link": "https://future-endeavorss.herokuapp.com/",
         "button": "Future Endeavors"
