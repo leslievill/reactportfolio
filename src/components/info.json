@@ -22,7 +22,7 @@
     {
         "id": 9,
         "title": "Burger App",
-        "src": "../Images/burger.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/burger.png?raw=true",
         "alt": "BurgerImg",
         "link": "https://powerful-thicket-46094.herokuapp.com/",
         "button": "Burger App"
@@ -30,7 +30,7 @@
     {
         "id": 8,
         "title": "Digital Notebook",
-        "src": "../Images/Notes.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/Notes.png?raw=true",
         "alt": "NotesImg",
         "link": "https://mighty-sands-70355.herokuapp.com/notes",
         "button": "Notes App"
@@ -38,7 +38,7 @@
     {
         "id": 7,
         "title": "Clicky Game",
-        "src": "../Images/click.gif",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/click.gif?raw=true",
         "alt": "LogoImg",
         "link": "https://leslievill.github.io/Clickity-click/",
         "button": "Play!"
@@ -46,7 +46,7 @@
     {
         "id": 6,
         "title": "Weather Dashboard",
-        "src": "../Images/weather.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/weather.png?raw=true",
         "alt": "WeatherImg",
         "link": "https://leslievill.github.io/Weather-Dash/",
         "button": "Check the Weather!"
@@ -56,13 +56,13 @@
         "title": "Productive Planner",
         "src": "../Images/day.png",
         "alt": "ScheduleImg",
-        "link": "https://leslievill.github.io/Productive-Planner/",
+        "link": "https://github.com/leslievill/reactportfolio/blob/main/public/images/day.png?raw=true",
         "button": "Organize Your Day"
     },
     {
         "id": 4,
         "title": "Password Generator",
-        "src": "../Images/password.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/password.png?raw=true",
         "alt": "PasswordImg",
         "link": "https://leslievill.github.io/Password-Generator/",
         "button": "Create a Password!"
@@ -70,7 +70,7 @@
     {
         "id": 3,
         "title": "Quiz Game",
-        "src": "../Images/quiz.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/quiz.png?raw=true",
         "alt": "QuizImg",
         "link": "https://leslievill.github.io/Little-Omar-s-Game-/",
         "button": "Prove your knowledge!"
@@ -79,7 +79,7 @@
     {
         "id": 2,
         "title": "Google Book Search",
-        "src": "../Images/book.png",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/book.png?raw=true",
         "alt": "book",
         "link": "hhttps://github.com/leslievill/google-book-search",
         "button": "Check it Out!"
@@ -88,7 +88,7 @@
     {
         "id": 1,
         "title": "Food Fix",
-        "src": "../Images/searchPage.gif",
+        "src": "https://github.com/leslievill/reactportfolio/blob/main/public/images/searchPage.gif?raw=true",
         "alt": "FoodFixImg",
         "link": "https://kev-luo.github.io/FoodFix/",
         "button": "Check it Out!"
