@@ -1,9 +1,4 @@
-/* @font-face {
-  font-family: Gloss and Bloom;
-  src: url(/Fonts/gloss_and_bloom/Gloss_And_Bloom.ttf) format('truetype');
-} */
-
-/* Media Queries */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,200&display=swap');
 
 @media (max-width: 1146px) {
   .carousel-caption{

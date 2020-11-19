@@ -1,5 +1,5 @@
 /* Navbar */
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,200&display=swap');
 .navbar {
     height: 70px;    
 }
@@ -31,12 +31,12 @@
 
 .navbar-light .navbar-nav .nav-link {
     color:black;
-    font-family: Gloss and Bloom;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 3px;
 }
 
 #FSC {
-    font-family: Gloss and Bloom;
+    font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: xx-large; 
     padding-left: 50px;

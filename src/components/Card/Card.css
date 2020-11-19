@@ -7,7 +7,8 @@
 .card-title {
     color: rgba(57, 95, 117, 0.6);
     text-align: center;
-    letter-spacing: 2px;    
+    letter-spacing: 2px; 
+       
 }
 
 a:not([href]) {
