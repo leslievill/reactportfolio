@@ -9,6 +9,7 @@ function About() {
             <Navbar/>
             <AboutMe/>
             <Footer/>
+            
         </div>
     )
 }
