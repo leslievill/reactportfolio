@@ -13,7 +13,7 @@ This web application consists of:
 
  ## Web application Image
 
- ![Site image](public/Images/portfolio.gif)
+ ![Site image](https://github.com/leslievill/reactportfolio/blob/main/public/images/portfolio.gif?raw=true)
 
  Gif of my portfolio
 
