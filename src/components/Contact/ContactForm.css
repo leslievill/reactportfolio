@@ -1,8 +1,8 @@
 /* Contact Form */
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,200&display=swap');
 #disp4 {
     margin-top: 65px;
-    font-family: Gloss and Bloom;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
     color: white;
     text-align: center;
@@ -10,7 +10,7 @@
 
 #disp5 {
     margin-top: -30px;
-    font-family: Gloss and Bloom;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
     color: white;
     text-align: center;

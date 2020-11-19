@@ -1,6 +1,7 @@
 import React from "react";
 import "../AboutMe/AboutMe.css";
 
+
 function AboutMe() {
     return (
 <div className="container-fluid" id="AboutMeCont">
@@ -22,7 +23,7 @@ function AboutMe() {
                       <p>Thank you for exploring my portfolio.</p>
                       I've included some of my favorite projects as well as my contact information. I look forward to hearing from you soon!
                       </p>
-                      <p><strong>Open Resume PDF file <a href="public/images/Resume 2020.pdf">here</a></strong>.</p>
+                      
                     
                 </div>    
             </div>
